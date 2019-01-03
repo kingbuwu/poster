@@ -1,0 +1,3 @@
+
+<view class='btn' bindtap='getSharePoster'>生成海报</view>
+<my-poster id="getPoster" bindmyevent="myEventListener" avater="http://t2.hddhhn.com/uploads/tu/201806/9999/91480c0c87.jpg" codeimg="http://i4.hexun.com/2018-07-05/193365388.jpg" price="1111" productname="名称"></my-poster>

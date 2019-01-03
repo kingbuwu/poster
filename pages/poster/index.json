@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "my-poster":"/component/poster/index"
+  }
+}
